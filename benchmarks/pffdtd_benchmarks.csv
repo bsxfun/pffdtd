@@ -2,7 +2,7 @@
 "Cartesian, fmax=1900Hz, Npts=1.09b, VRAM=10.6GB ",,
 GPUs used,MVPS/GPU,Mins / s
 1 x Tesla K80,6703.9,67.0
-2 x Tesla K80,6497.7 34.5
+2 x Tesla K80,6497.7, 34.5
 1 x Titan X (Maxwell),9946.9,45.2
 2 x Titan X (Maxwell),9548.9,23.5
 1 x GTX1080Ti,11270.7,39.8
