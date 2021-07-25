@@ -110,7 +110,6 @@ PFFDTD relies on a number of open-source projects to work properly:
 - [polyscope](https://github.com/nmwsharp/polyscope)
 - [matplotlib](https://github.com/matplotlib/matplotlib)
 - [resampy](https://github.com/bmcfee/resampy)
-- [three.js](https://github.com/mrdoob/three.js/)
 
 The above list is non-exhaustive.  Use of the third-party software, libraries or code referred to above may be governed by separate licenses.
 
