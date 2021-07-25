@@ -1,0 +1,50 @@
+,,
+"Cartesian, fmax=1900Hz, Npts=1.09b, VRAM=10.6GB ",,
+GPUs used,MVPS/GPU,Mins / s
+1 x Tesla K80,6703.9,67.0
+2 x Tesla K80,6497.7 34.5
+1 x Titan X (Maxwell),9946.9,45.2
+2 x Titan X (Maxwell),9548.9,23.5
+1 x GTX1080Ti,11270.7,39.8
+2 x GTX1080Ti,10821.5,20.8
+,,
+"Cartesian, fmax=3100Hz, Npts=4.69b, VRAM=43.0GB",,
+GPUs used,MVPS/GPU,Mins / s
+4 x Tesla K80,7199.2,109.5
+8 x Tesla K80,7110.4,55.3
+4 x Titan X (Maxwell),10456.3,75.3
+4 x GTX1080Ti,12396.5,63.5
+8 x GTX1080Ti,11321.3,34.8
+,,
+"FCC, fmax=3200Hz, Npts=1.08b, VRAM=10.3GB",,
+GPUs used,MVPS/GPU,Mins / s
+1 x Tesla K80,5488.2,59.0
+2 x Tesla K80,5397.1,30.0
+1 x Titan X (Maxwell),9536.9,33.8
+2 x Titan X (Maxwell),9438.2,17.2
+1 x GTX1080Ti,11318.0,28.7
+2 x GTX1080Ti,11143.2,14.5
+,,
+"FCC, fmax=5200Hz, Npts=4.60b, VRAM=41.5GB",,
+GPUs used,MVPS/GPU,Mins / s
+4 x Tesla K80,5904.2,94.7
+8 x Tesla K80,5854.0,47.7
+4 x Titan X (Maxwell),9850.1,56.8
+4 x GTX1080Ti,12154.8,46.0
+8 x GTX1080Ti,11382.6,24.5
+,,
+"FCC, fmax=6500Hz, Npts=8.95b, VRAM=80.0GB",,
+GPUs used,MVPS/GPU,Mins / s
+8 x Tesla K80,5817.9,117.0
+16 x Tesla K80,5164.7,65.8
+8 x GTX1080Ti,12594.3,54.0
+8 x V100 (16GB),27220.2,25.0
+4 x RTX3090,39093.6,34.8
+8 x RTX3090,33836.8,20.2
+2 x A100 (40GB),52512.6,51.8
+4 x A100 (40GB),49880.4,27.3
+8 x A100 (40GB),43044.3,15.8
+,,
+"FCC, fmax=10000Hz, Npts=32.4b, VRAM=246GB",,
+GPUs used,MVPS/GPU,Mins / s
+8 x A100 (40GB),47421.0,80.0
