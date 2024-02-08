@@ -120,7 +120,7 @@ class ProcessOutputs:
             r_out_f = sosfilt(sos,r_out)
         elif apply_int: #shouldn't really use this without lowcut, but here in case
             b = Ts/2*npa([1,1])
-            a = npa([1,1])
+            a = npa([1, -1])
             r_out_f = lfilter(b,a,r_out)
             self.print('applying integrator')
         else:
